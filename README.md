@@ -1,2 +1,2 @@
 # Skin-Colour-Helena
-ANOVA
+ANOVA e PCA
